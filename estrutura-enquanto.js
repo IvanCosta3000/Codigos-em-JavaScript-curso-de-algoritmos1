@@ -1,28 +1,4 @@
-/*
-Var nome:caracter 
-idade,limite,contador:inteiro
 
-
-Inicio
-
-   escreva("Digite a quantidade de vezes que vai ser verificado a idade: ")
-   leia(limite)
-   contador:=0
-   enquanto contador < limite faca
-      escreva("Digite seu nome: ")
-      leia(nome)
-      escreva("Digite sua idade ",nome,": ")
-      leia(idade)
-      se idade >18 entao
-         escreval("O individuo ",nome," é maior de idade!")
-      senao
-         escreval("O individuo ",nome," é menor de idade!")
-      fimse
-      contador := contador + 1
-   fimenquanto
-
-
-*/
 
 function acaoBotao() {
     var nome,idade,limite,contador
